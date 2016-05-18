@@ -92,5 +92,5 @@
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
 
-** Tranformations
-This project used joins to combine test and training data, and extracted only the fields related to mean and std deviation.
+## Tranformations
+* This project used joins to combine test and training data, and extracted only the fields related to mean and std deviation.
